@@ -27,4 +27,4 @@ I'm a Full Stack Developer passionate about building functional web applications
 
 ---
 
- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvecelic@gmail.com)
+ ![Email][(https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:teuemail@exemplo.com?subject=Contacto%20via%20GitHub))
