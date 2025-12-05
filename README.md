@@ -27,4 +27,4 @@ I'm a Full Stack Developer passionate about building functional web applications
 
 ---
 
-📫 **Get in touch:** [bvecelic@gmail.com]
+📫 **Get in touch:** [Send me an E-mail](bvecelic@gmail.com)
